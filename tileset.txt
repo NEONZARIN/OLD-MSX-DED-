@@ -1,4 +1,0 @@
-NAME: MSX++ Rail Anon
-VIEW: MSX++ Rail Anon
-JSON: tile_config.json
-TILESET: tiles.png
